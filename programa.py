@@ -10,7 +10,7 @@ def main():
 	print("otra prueba")
 	
 	print("que es esto")
-	temp = 10 + 12
+	temp = 10 + 12 * 10 / 1.7
 
 if __name__ == '__main__':
 	main()
