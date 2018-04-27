@@ -1,7 +1,7 @@
 # Proyecto: "base"
 # Version: 0.0
 # Autor: Denis Henriquez
-# Fecha: dd/mm/yyyy
+# Fecha: 10/10/10
 
 def main():
 	print("Hello world")
