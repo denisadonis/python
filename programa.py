@@ -5,7 +5,7 @@
 # Terminar mañana
 
 def main():
-	print("hola mundo")	
+	print("hola mundo desde python")	
 
 if __name__ == '__main__':
 	main()
