@@ -7,6 +7,8 @@
 def main():
 	print("Hello world")
 	print("otra prueba")
+	
+	print("que es esto")
 
 if __name__ == '__main__':
 	main()
