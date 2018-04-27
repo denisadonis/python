@@ -6,7 +6,7 @@
 # pero que hay
 
 def main():
-	print("hola mundo desde python y c++")	
+	print("hola mundo desde python")	
 
 if __name__ == '__main__':
 	main()
