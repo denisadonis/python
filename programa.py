@@ -11,6 +11,7 @@ def main():
 	
 	print("que es esto")
 	temp = 10 + 12
+	temp *= temp
 
 if __name__ == '__main__':
 	main()
