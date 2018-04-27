@@ -4,7 +4,7 @@
 # Fecha: 10/10/10
 
 def main():
-	pass	
+	print("hola mundo")	
 
 if __name__ == '__main__':
 	main()
