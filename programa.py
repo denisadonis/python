@@ -7,6 +7,7 @@
 
 def main():
 	print("hola mundo desde python")
+	print("otro hola mundo")
 	# mejor programao en c++
 
 if __name__ == '__main__':
