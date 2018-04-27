@@ -3,7 +3,6 @@
 # Autor: Denis Henriquez
 # Fecha: 10/10/10
 # Terminar mañana a las 12:00
-# Pero lo mas pronto
 
 def main():
 	print("hola mundo desde python")
