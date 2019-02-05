@@ -8,6 +8,9 @@ def main():
 	print("hola mundo desde python")
 	print("otro hola mundo")
 	# mejor programao en c++
+	while True:
+		print(".")
+
 
 if __name__ == '__main__':
 	main()
